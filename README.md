@@ -5,6 +5,7 @@
 ### Digitalizing Ideas for the Web✨
 
 ![LosmanDev's Stats](https://github-readme-stats.vercel.app/api?username=LosmanDev&theme=dark&rank_icon=github&hide_border=true&count_private=true)
+![LosmanDev's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LosmanDev&theme=dark)
 
 I'm a highly motivated IT professional with experience in both frontend and backend development. Skilled in crafting user-friendly interfaces with HTML5, CSS3, JavaScript (ES6+), TypeScript, and ReactJS/NextJS. Adept at building robust backend logic and APIs using Node.js and RESTful principles. 
 

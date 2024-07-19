@@ -1,8 +1,6 @@
 # 👋🏾 Hi, I'm Liban Osman
 
-Full Stack Developer
-
-### Digitalizing Ideas for the Web✨
+### Full Stack Developer | Digitalizing Ideas for the Web✨
 
 ![LosmanDev's Stats](https://github-readme-stats.vercel.app/api?username=LosmanDev&theme=dark&rank_icon=github&hide_border=true&count_private=true)
 ![LosmanDev's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LosmanDev&theme=dark)

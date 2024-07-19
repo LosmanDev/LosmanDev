@@ -17,12 +17,12 @@ My technical experience gives me the confidence to pick up new information rapid
 
 ## Skills
 
-- Frontend: HTML5, CSS3, JavaScript (ES6+), TypeScript, ReactJS, NextJS
-- Backend: Node.js, RESTful APIs
-- Full Stack Development
-- User Interface Design
-- Problem Solving
-- Rapid Learning
+- Frontend: HTML5, CSS3, Tailwindcss, JavaScript (ES6+), TypeScript, ReactJS, NextJS.
+- Backend: Node.js, Php, PostgreSQL, MySQL, MongoDB.
+- Full Stack Development.
+- User Interface Design.
+- Problem Solving.
+- Rapid Learning.
 
 Feel free to reach out if you want to collaborate on a project or just chat about tech!
 

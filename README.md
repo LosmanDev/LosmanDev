@@ -5,7 +5,7 @@
 ![LosmanDev's Stats](https://github-readme-stats.vercel.app/api?username=LosmanDev&theme=dark&rank_icon=github&hide_border=true&count_private=true)
 ![LosmanDev's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LosmanDev&theme=dark)
 
-I'm a highly motivated IT professional with experience in both frontend and backend development. Skilled in crafting user-friendly interfaces with HTML5, CSS3, JavaScript (ES6+), TypeScript, and React/Nextjs. Adept at building robust backend logic and APIs using Node.js, PostgreSQL, Php and RESTful principles.
+I'm a highly motivated IT professional with experience in both frontend and backend development. Skilled in crafting user-friendly interfaces with HTML5, CSS3, JavaScript (ES6+), TypeScript, and React/Nextjs. Adept at building robust backend logic and APIs using Node.js, SQL(Postgres,MySQL), php and RESTful principles.
 
 Beyond software development, my hobbies include playing sports swimming and njoying life with my loved ones.
 My technical experience gives me the confidence to pick up new information rapidly and tackle difficult problems. I'm driven to learn and progress in this ever-evolving field. Ready to digitalize ideas into user-friendly, mobile-responsive, elegant projects and solutions.

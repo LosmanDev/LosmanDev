@@ -3,7 +3,7 @@
 ### Full Stack Developer | Digitalizing Ideas for the Web✨
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LosmanDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![Profile Views](https://komarev.com/ghpvc/?username=losmandev&color=orange)
+
 
 I'm a highly motivated IT professional with experience building innovative web applications. Skilled in crafting user-friendly interfaces with HTML5, CSS3, JavaScript (ES6+), TypeScript, and React/Nextjs. Adept at building robust backend logic and APIs using Node.js, Next.js(SSR, SSG, API Routes) PHP, PostgreSQL, MySQL, MongoDB and RESTful principles. Proven ability to solve complex technical challenges and delivering high-quality solutions.
 
